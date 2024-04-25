@@ -1,0 +1,77 @@
+	1. Conceitos Básicos:
+1) Escreva um programa em JavaScript que exiba "Olá, mundo!" no console do navegador.
+2) Declare uma variável chamada idade e atribua a ela o valor da sua idade.
+3) Crie uma função chamada soma que receba dois números como parâmetros e retorne a soma deles.
+4) Declare um array chamado cores com os nomes de algumas cores.
+5) Escreva um loop for que imprima os números de 1 a 5 no console.
+
+______________________________________________________________________________________________________________________________
+	2. Estruturas de Dados:
+1) Crie um array com o nome de cinco países.
+2) Declare um objeto chamado aluno com as propriedades "nome", "idade" e "nota".
+3) Crie um array de objetos representando diferentes livros com as propriedades "titulo", "autor" e "ano".
+4) Declare uma variável do tipo Map que mapeie nomes de frutas para suas respectivas cores.
+5) Crie um array multidimensional contendo informações sobre alunos e suas notas.
+
+______________________________________________________________________________________________________________________________
+	3. Programação Orientada a Objetos em JavaScript:
+1) Crie uma classe chamada Carro com os métodos ligar e desligar.
+2) Declare uma classe Cachorro com os métodos latir e correr.
+3) Crie uma classe Pessoa com os atributos nome e idade e o método dizerNome que exibe o nome da pessoa.
+4) Declare uma classe Retangulo com os atributos largura e altura e o método calcularArea que retorna a área do retângulo.
+5) Crie uma classe ContaBancaria com os métodos depositar e sacar e o atributo saldo.
+
+______________________________________________________________________________________________________________________________
+	4. Manipulação do DOM:
+1) Selecione um elemento de parágrafo no HTML e altere seu texto para "Olá, mundo!" usando JavaScript.
+2) Adicione uma classe CSS a um elemento de lista no HTML usando JavaScript.
+3) Crie um novo elemento de botão no HTML usando JavaScript.
+4) Remova um elemento de imagem do HTML usando JavaScript.
+5) Altere o atributo src de uma imagem no HTML usando JavaScript.
+
+______________________________________________________________________________________________________________________________
+	5. Assincronismo:
+1) Crie uma função JavaScript que simule uma requisição assíncrona usando setTimeout.
+2) Implemente uma função que retorne uma Promise resolvida após um certo período de tempo.
+3) Escreva uma função que realize uma requisição AJAX para buscar dados de um servidor fictício.
+4) Utilize fetch para fazer uma requisição a uma API pública e exibir os resultados no console.
+5) Implemente uma função que realize múltiplas requisições assíncronas e aguarde todas as respostas.
+
+______________________________________________________________________________________________________________________________
+	6. Trabalhando com APIs:
+1) Faça uma requisição para a API do GitHub e exiba o nome de usuário no console.
+2) Utilize a API do OpenWeatherMap para buscar a previsão do tempo e exibir no console.
+3) Faça uma requisição para a API do Chuck Norris Jokes e exiba uma piada no seu site.
+4) Utilize a API do JSONPlaceholder para buscar posts e exibi-los no console.
+5) Faça uma requisição para a API do Giphy e exiba uma imagem aleatória no seu site.
+
+______________________________________________________________________________________________________________________________
+	7.Testes em JavaScript:
+1) Escreva um teste para uma função que soma dois números.
+2) Implemente um teste para verificar se uma função de validação de e-mail retorna true para um e-mail válido.
+3) Crie um teste para verificar se uma função que verifica se um número é par retorna true para um número par.
+4) Implemente um teste para uma função que retorna o maior elemento de um array.
+5) Escreva um teste para verificar se uma função que verifica se uma palavra é um palíndromo retorna true para uma palavra válida.
+
+______________________________________________________________________________________________________________________________
+	8. Manipulação de Formulários:
+1) Crie um formulário HTML simples com campos de entrada para nome e e-mail.
+2) Implemente um script JavaScript para validar se os campos do formulário estão preenchidos antes de enviar.
+3) Adicione uma funcionalidade para exibir uma mensagem de erro caso os campos não estejam preenchidos.
+4) Implemente um script para limpar os campos do formulário após o envio bem-sucedido.
+5) Adicione um campo de seleção ao formulário e valide se foi selecionada uma opção antes de enviar.
+______________________________________________________________________________________________________________________________
+	9. Framework Front-End:
+1) Crie uma página HTML simples usando um framework front-end de sua escolha.
+2) Adicione um botão de clique à página e implemente uma função para manipular o evento de clique.
+3) Utilize um componente de slider de imagens fornecido pelo framework e personalize-o.
+4) Implemente um formulário de contato usando componentes do framework e adicione validação aos campos.
+5) Adicione uma barra de navegação à página com links para diferentes seções.
+
+______________________________________________________________________________________________________________________________
+	10. Manipulação de dados:
+1) Crie um formulário HTML para inserir dados de um usuário (nome, e-mail, idade).
+2) Implemente um script JavaScript para validar os dados do formulário antes de enviá-lo.
+3) Adicione uma funcionalidade para limpar os campos do formulário após o envio bem-sucedido.
+4) Utilize o armazenamento local do navegador para salvar os dados do usuário e exibi-los em uma lista.
+5) Adicione uma funcionalidade para excluir um usuário da lista.

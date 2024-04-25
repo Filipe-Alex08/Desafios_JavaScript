@@ -1,0 +1,78 @@
+	1. Conceitos Básicos:
+1) Escreva uma função em JavaScript que retorne a soma dos números pares em um array, utilizando o método reduce.
+2) Declare uma variável data e atribua a ela a data atual em formato de string no formato "dd/mm/yyyy", utilizando o objeto Date.
+3) Crie uma função que receba um array de números e retorne o menor valor, sem usar os métodos Math.min() ou sort().
+4) Escreva um programa que valide se uma senha é forte, considerando critérios como comprimento mínimo, uso de letras maiúsculas, minúsculas, números e caracteres especiais.
+5) Implemente uma função que remova todos os elementos duplicados de um array usando o método filter() e indexOf().
+
+______________________________________________________________________________________________________________________________
+	2. Estruturas de Dados:
+1) Crie uma função que receba uma matriz (array de arrays) e retorne a transposta dela sem usar laços de repetição.
+2) Implemente uma classe Fila que tenha os métodos enfileirar, desenfileirar e tamanho.
+3) Escreva uma função que receba uma string e retorne um objeto contendo a contagem de cada caractere presente na string, utilizando o método reduce.
+4) Crie uma função que receba dois arrays e retorne um novo array contendo apenas os elementos presentes em ambos os arrays, utilizando o método filter().
+5) Implemente uma pilha usando o conceito de closure.
+
+______________________________________________________________________________________________________________________________
+	3. Programação Orientada a Objetos em JavaScript:
+1) Crie uma classe Veiculo com os atributos marca e ano e um método para exibir informações do veículo.
+2) Declare uma classe Animal com os métodos emitirSom e mover e uma classe Mamifero que herda de Animal com um método amamentar.
+3) Implemente uma hierarquia de classes para representar formas geométricas (por exemplo, Quadrado, Triangulo, Circulo) com métodos para calcular área e perímetro.
+4) Crie uma classe Conta com métodos para depositar, sacar e verificar o saldo, utilizando encapsulamento.
+5) Implemente uma classe Funcionario com atributos nome, salario e método para calcular o salário líquido, considerando descontos de impostos e bônus.
+
+______________________________________________________________________________________________________________________________
+	4. Manipulação do DOM:
+1) Crie uma função para criar dinamicamente uma tabela HTML com dados de um array de objetos utilizando template strings.
+2) Implemente um sistema de abas usando JavaScript, onde o conteúdo de cada aba seja carregado dinamicamente usando fetch.
+3) Escreva um programa que alterne dinamicamente a cor de fundo de um elemento HTML em intervalos regulares usando setInterval.
+4) Crie um elemento de lista com itens que possam ser reordenados arrastando e soltando, utilizando a API de eventos de arrastar e soltar.
+5) Implemente um sistema de navegação de página única (SPA) usando JavaScript para carregar conteúdo dinamicamente sem recarregar a página e gerenciar o histórico de navegação.
+
+______________________________________________________________________________________________________________________________
+	5. Assincronismo:
+1) Escreva uma função que faça uma requisição AJAX e retorne uma Promise com os dados recebidos, utilizando a API fetch.
+2) Implemente um sistema de busca que exiba sugestões enquanto o usuário digita, usando requisições assíncronas e debounce.
+3) Crie uma função que simule um atraso no processamento de uma operação assíncrona e demonstre o uso de async/await.
+4) Utilize Promise.all para fazer múltiplas requisições assíncronas e aguardar todas as respostas.
+5) Implemente um contador regressivo que aguarde um determinado tempo antes de executar uma ação, utilizando o objeto Promise e setTimeout.
+
+______________________________________________________________________________________________________________________________
+	6. Trabalhando com APIs:
+1) Crie uma aplicação que consuma a API do GitHub para exibir informações de um usuário, utilizando async/await.
+2) Utilize a API do OpenWeatherMap para exibir a previsão do tempo de uma cidade específica, tratando os erros de requisição.
+3) Escreva um programa que busque informações sobre filmes usando a API do IMDb e exiba os resultados de forma paginada.
+4) Implemente um sistema de autenticação de usuário utilizando tokens JWT e uma API RESTful.
+5) Utilize a API do Google Maps para exibir um mapa com marcadores de localização dinâmicos e informações adicionais.
+
+______________________________________________________________________________________________________________________________
+	7. Testes em JavaScript:
+1) Escreva testes para uma função que ordene um array de números em ordem crescente, utilizando uma biblioteca de testes como Jest ou Mocha.
+2) Implemente testes para uma função que calcula o fatorial de um número, verificando casos extremos e o comportamento para entradas inválidas.
+3) Escreva testes para uma função que verifica se uma palavra é um palíndromo, considerando diferentes tipos de strings.
+4) Implemente testes para uma função que valida um CPF, verificando todos os casos possíveis de entrada.
+5) Escreva testes para uma função que calcula o quadrado de um número, cobrindo todos os cenários esperados.
+
+______________________________________________________________________________________________________________________________
+	8. Manipulação de Formulários:
+1) Implemente um formulário de cadastro de usuário com validação de campos usando expressões regulares e exiba mensagens de erro dinâmicas.
+2) Crie um formulário de login com autenticação de usuário usando JavaScript e localStorage para armazenar os dados do usuário.
+3) Escreva um programa que permita ao usuário editar informações de perfil em um formulário e faça a atualização dos dados no servidor.
+4) Implemente um sistema de busca com filtragem de resultados dinâmica usando formulários e exiba os resultados em uma lista paginada.
+5) Crie um formulário de contato com envio de mensagem assíncrono usando Fetch API e exiba uma mensagem de confirmação ao usuário.
+
+______________________________________________________________________________________________________________________________
+	9. Framework Front-End:
+1) Desenvolva uma aplicação de lista de tarefas usando um framework front-end como React ou Vue.js, utilizando componentes reutilizáveis.
+2) Utilize um framework front-end para criar um carrossel de imagens com efeito de transição suave e responsivo.
+3) Implemente um componente de tabela dinâmica que permita ordenação e paginação dos dados de forma eficiente.
+4) Crie uma aplicação de chat em tempo real usando um framework front-end e WebSocket para comunicação bidirecional.
+5) Desenvolva um aplicativo de gerenciamento de estado usando Vuex (para Vue.js) ou Redux (para React) e integre com uma API RESTful.
+
+______________________________________________________________________________________________________________________________
+	10. Manipulação de dados:
+1) Implemente um sistema de CRUD (Create, Read, Update, Delete) para manipulação de dados usando Fetch API e uma API RESTful.
+2) Desenvolva um sistema de filtragem e ordenação de dados em uma tabela dinâmica utilizando algoritmos eficientes.
+3) Utilize localStorage para armazenar dados localmente e criar um aplicativo de lista de tarefas com sincronização offline.
+4) Escreva um programa para importar e exportar dados de um arquivo CSV usando JavaScript puro e processamento assíncrono.
+5) Desenvolva um sistema de pesquisa de texto completo (full-text search) em uma aplicação web, utilizando algoritmos de indexação e busca eficientes.
