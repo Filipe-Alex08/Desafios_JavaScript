@@ -1,6 +1,6 @@
 <h1 align="center">Desafios em JavaScript</h1>
 
-<p align="center"><i>Desafios da programação em HTML & CSS</i></p>
+<p align="center"><i>Desafios da programação em JavaScript</i></p>
 
 <h2 align="center">Histórico de revisão</h2>
 
